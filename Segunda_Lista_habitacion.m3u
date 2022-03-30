@@ -98,10 +98,10 @@ http://s1.pixel4k.vision:80/152089415023942/152050660994808/73000
 #EXTINF:-1 tvg-name="FOXLIFE" tvg-logo="http://134.255.234.197/logos/foxlife.png" group-title="ESPAÑA" country="ES",FOX LIFE
 #EXTSIZE: Medium
 http://s1.pixel4k.vision:80/152089415023942/152050660994808/72999
-#EXTINF:-1 tvg-name="HOLLYWOOD CHANNEL" tvg-logo="http://134.255.234.197/logos/hollywood.png" group-title="ESPAÑA" country="ES",HOLLYWOOD CHANNEL
+#EXTINF:-1 tvg-name="HOLLYWOOD" tvg-logo="http://134.255.234.197/logos/hollywood.png" group-title="ESPAÑA" country="ES",HOLLYWOOD
 #EXTSIZE: Medium
 http://s1.pixel4k.vision:80/152089415023942/152050660994808/72998
-#EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="http://134.255.234.197/logos/paramountchannelhd.png" group-title="ESPAÑA" country="ES",PARAMOUNT
+#EXTINF:-1 tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://134.255.234.197/logos/paramountchannelhd.png" group-title="ESPAÑA" country="ES",PARAMOUNT CHANNEL
 #EXTSIZE: Medium
 http://s1.pixel4k.vision:80/152089415023942/152050660994808/72997
 #EXTINF:-1 tvg-name="SUNDANCE TV" tvg-logo="http://134.255.234.197/logos/sundancetv.png" group-title="ESPAÑA" country="ES",SUNDANCE TV
@@ -161,25 +161,25 @@ http://s1.pixel4k.vision:80/152089415023942/152050660994808/97146
 #EXTINF:-1 tvg-name="NETFLIX+ MOVIES" tvg-logo="" group-title="ESPAÑA" country="ES",NETFLIX+ MOVIES
 #EXTSIZE: Medium
 http://s1.pixel4k.vision:80/152089415023942/152050660994808/97145
-#EXTINF:-1 tvg-name="M.ACCION" tvg-logo="http://134.255.234.197/logos/movistaraccion.png" group-title="ESPAÑA" country="ES",M.ACCION HD
+#EXTINF:-1 tvg-name="MOVISTAR ACCION" tvg-logo="http://134.255.234.197/logos/movistaraccion.png" group-title="ESPAÑA" country="ES",MOVISTAR ACCION
 #EXTSIZE: Medium
 http://s1.pixel4k.vision:80/152089415023942/152050660994808/73057
-#EXTINF:-1 tvg-name="M. CINE ESPANOL" tvg-logo="http://134.255.234.197/logos/movistarcineespagnol.png" group-title="ESPAÑA" country="ES",M. CINE ESPANOL
+#EXTINF:-1 tvg-name="MOVISTAR CINE ESPANOL" tvg-logo="http://134.255.234.197/logos/movistarcineespagnol.png" group-title="ESPAÑA" country="ES",MOVISTAR CINE ESPANOL
 #EXTSIZE: Medium
 http://s1.pixel4k.vision:80/152089415023942/152050660994808/73056
-#EXTINF:-1 tvg-name="M. COMEDIA" tvg-logo="http://134.255.234.197/logos/movistarcomedia.png" group-title="ESPAÑA" country="ES",M. COMEDIA HD
+#EXTINF:-1 tvg-name="MOVISTAR COMEDIA" tvg-logo="http://134.255.234.197/logos/movistarcomedia.png" group-title="ESPAÑA" country="ES",MOVISTAR COMEDIA
 #EXTSIZE: Medium
 http://s1.pixel4k.vision:80/152089415023942/152050660994808/73055
-#EXTINF:-1 tvg-name="M.DRAMA" tvg-logo="http://134.255.234.197/logos/movistardrama.png" group-title="ESPAÑA" country="ES",M.DRAMA HD
+#EXTINF:-1 tvg-name="MOVISTAR DRAMA" tvg-logo="http://134.255.234.197/logos/movistardrama.png" group-title="ESPAÑA" country="ES",MOVISTAR DRAMA
 #EXTSIZE: Medium
 http://s1.pixel4k.vision:80/152089415023942/152050660994808/73054
-#EXTINF:-1 tvg-name="M.ESTRENOS" tvg-logo="http://134.255.234.197/logos/movistarestrenos.png" group-title="ESPAÑA" country="ES",M.ESTRENOS HD
+#EXTINF:-1 tvg-name="MOVISTAR ESTRENOS" tvg-logo="http://134.255.234.197/logos/movistarestrenos.png" group-title="ESPAÑA" country="ES",MOVISTAR ESTRENOS
 #EXTSIZE: Medium
 http://s1.pixel4k.vision:80/152089415023942/152050660994808/73053
-#EXTINF:-1 tvg-name="M.SERIES" tvg-logo="http://134.255.234.197/logos/movistarseries.png" group-title="ESPAÑA" country="ES",M.SERIES HD
+#EXTINF:-1 tvg-name="MOVISTAR SERIES" tvg-logo="http://134.255.234.197/logos/movistarseries.png" group-title="ESPAÑA" country="ES",MOVISTAR SERIES
 #EXTSIZE: Medium
 http://s1.pixel4k.vision:80/152089415023942/152050660994808/73052
-#EXTINF:-1 tvg-name="M.SERIESMANIA" tvg-logo="http://134.255.234.197/logos/movistarseriesmania.png" group-title="ESPAÑA" country="ES",M.SERIESMANIA HD
+#EXTINF:-1 tvg-name="MOVISTAR SERIESMANIA" tvg-logo="http://134.255.234.197/logos/movistarseriesmania.png" group-title="ESPAÑA" country="ES",MOVISTAR SERIESMANIA
 #EXTSIZE: Medium
 http://s1.pixel4k.vision:80/152089415023942/152050660994808/73051
 #EXTINF:-1 tvg-name="BLAZE" tvg-logo="http://134.255.234.197/logos/blaze.png" group-title="ESPAÑA" country="ES",BLAZE
