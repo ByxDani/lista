@@ -39,23 +39,23 @@ http://homeplus.relaxy.vip:8000/test3027/64703735/4103
 #EXTSIZE: Medium
 #EXTBG: #11609e
 http://homeplus.relaxy.vip:8000/test3027/64703735/4101
-#EXTINF:-1 tvg-id="" tvg-name="NOVA HD" tvg-logo="http://fanc.tmsimg.com/assets/s102944_ll_h3_aa.png" group-title="ESPAÑA" country="ES",NOVA HD
+#EXTINF:-1 tvg-id="" tvg-name="NOVA" tvg-logo="http://fanc.tmsimg.com/assets/s102944_ll_h3_aa.png" group-title="ESPAÑA" country="ES",NOVA
 #EXTSIZE: Medium
 #EXTBG: #11609e
 http://homeplus.relaxy.vip:8000/test3027/64703735/4102
-#EXTINF:-1 tvg-id="" tvg-name="MEGA HD" tvg-logo="http://tvpass.co.uk/logos/es/Mega_Spain_2015.png" group-title="ESPAÑA" country="ES",MEGA HD
+#EXTINF:-1 tvg-id="" tvg-name="MEGA" tvg-logo="http://tvpass.co.uk/logos/es/Mega_Spain_2015.png" group-title="ESPAÑA" country="ES",MEGA
 #EXTSIZE: Medium
 #EXTBG: #11609e
 http://homeplus.relaxy.vip:8000/test3027/64703735/6600
-#EXTINF:-1 tvg-id="" tvg-name="BEMAD HD" tvg-logo="http://fanc.tmsimg.com/assets/s99701_ll_h3_aa.png" group-title="ESPAÑA" country="ES",BEMAD HD
+#EXTINF:-1 tvg-id="" tvg-name="BEMAD" tvg-logo="http://fanc.tmsimg.com/assets/s99701_ll_h3_aa.png" group-title="ESPAÑA" country="ES",BEMAD
 #EXTSIZE: Medium
 #EXTBG: #11609e
 http://homeplus.relaxy.vip:8000/test3027/64703735/4105
-#EXTINF:-1 tvg-id="" tvg-name="ATRESSERIES HD" tvg-logo="http://obsfullhd.tv:25461/images/cdbc51673b283b91bbcc95656f740bf0.png" group-title="ESPAÑA" country="ES",ATRESSERIES HD
+#EXTINF:-1 tvg-id="" tvg-name="ATRESSERIES" tvg-logo="http://obsfullhd.tv:25461/images/cdbc51673b283b91bbcc95656f740bf0.png" group-title="ESPAÑA" country="ES",ATRESSERIES
 #EXTSIZE: Medium
 #EXTBG: #11609e
 http://homeplus.relaxy.vip:8000/test3027/64703735/6524
-#EXTINF:-1 tvg-id="" tvg-name="XTRM HD" tvg-logo="" group-title="ESPAÑA" country="ES",XTRM HD
+#EXTINF:-1 tvg-id="" tvg-name="XTRM" tvg-logo="" group-title="ESPAÑA" country="ES",XTRM
 #EXTSIZE: Medium
 #EXTBG: #11609e
 http://homeplus.relaxy.vip:8000/test3027/64703735/6547
@@ -63,14 +63,18 @@ http://homeplus.relaxy.vip:8000/test3027/64703735/6547
 #EXTSIZE: Medium
 #EXTBG: #11609e
 http://homeplus.relaxy.vip:8000/test3027/64703735/27029
-#EXTINF:-1 tvg-id="" tvg-name="DARK HD" tvg-logo="" group-title="ESPAÑA" country="ES",DARK HD
+#EXTINF:-1 tvg-id="" tvg-name="DARK" tvg-logo="" group-title="ESPAÑA" country="ES",DARK
 #EXTSIZE: Medium
 #EXTBG: #11609e
 http://homeplus.relaxy.vip:8000/test3027/64703735/27027
-#EXTINF:-1 tvg-id="" tvg-name="13TV" tvg-logo="" group-title="ESPAÑA" country="ES",13TV
+#EXTINF:-1 tvg-id="" tvg-name="TRECE" tvg-logo="" group-title="ESPAÑA" country="ES",TRECE
 #EXTSIZE: Medium
 #EXTBG: #11609e
 http://homeplus.relaxy.vip:8000/test3027/64703735/4126
+#EXTINF:-1 tvg-id="" tvg-name="TRECE" tvg-logo="http://obsfullhd.tv:25461/images/db352f430608228326e2defc3d6fb2a2.png" group-title="ESPAÑA" country="ES",TRECE
+#EXTSIZE: Medium
+#EXTBG: #11609e
+http://homeplus.relaxy.vip:8000/test3027/64703735/6716
 #EXTINF:-1 tvg-id="" tvg-name="TEN" tvg-logo="http://obsfullhd.tv:25461/images/5e3cebad97c9c838cfe7f5a3302ffe40.png" group-title="ESPAÑA" country="ES",TEN
 #EXTSIZE: Medium
 #EXTBG: #11609e
@@ -79,10 +83,6 @@ http://homeplus.relaxy.vip:8000/test3027/64703735/6651
 #EXTSIZE: Medium
 #EXTBG: #11609e
 http://homeplus.relaxy.vip:8000/test3027/64703735/4143
-#EXTINF:-1 tvg-id="" tvg-name="TRECE" tvg-logo="http://obsfullhd.tv:25461/images/db352f430608228326e2defc3d6fb2a2.png" group-title="ESPAÑA" country="ES",TRECE
-#EXTSIZE: Medium
-#EXTBG: #11609e
-http://homeplus.relaxy.vip:8000/test3027/64703735/6716
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://obsfullhd.tv:25461/images/132fba05186b1767d3348729f613c7a8.png" group-title="ESPAÑA" country="ES",AXN
 #EXTSIZE: Medium
 #EXTBG: #11609e
@@ -95,7 +95,7 @@ http://homeplus.relaxy.vip:8000/test3027/64703735/6530
 #EXTSIZE: Medium
 #EXTBG: #11609e
 http://homeplus.relaxy.vip:8000/test3027/64703735/6540
-#EXTINF:-1 tvg-id="" tvg-name="BOM CINE" tvg-logo="" group-title="ESPAÑA" country="ES",BOM CINE
+#EXTINF:-1 tvg-id="" tvg-name="BOM" tvg-logo="" group-title="ESPAÑA" country="ES",BOM
 #EXTSIZE: Medium
 #EXTBG: #11609e
 http://homeplus.relaxy.vip:8000/test3027/64703735/4121
@@ -171,11 +171,11 @@ http://homeplus.relaxy.vip:8000/test3027/64703735/27053
 #EXTSIZE: Medium
 #EXTBG: #11609e
 http://homeplus.relaxy.vip:8000/test3027/64703735/6549
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ESTRENOS 2 HD" tvg-logo="" group-title="ESPAÑA" country="ES",MOVISTAR ESTRENOS 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ESTRENOS 2" tvg-logo="" group-title="ESPAÑA" country="ES",MOVISTAR ESTRENOS 2
 #EXTSIZE: Medium
 #EXTBG: #11609e
 http://homeplus.relaxy.vip:8000/test3027/64703735/27026
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR CLASICO" tvg-logo="" group-title="ESPAÑA" country="ES",MOVISTAR CLASICO
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR CLASICOS" tvg-logo="" group-title="ESPAÑA" country="ES",MOVISTAR CLASICOS
 #EXTSIZE: Medium
 #EXTBG: #11609e
 http://homeplus.relaxy.vip:8000/test3027/64703735/27030
@@ -191,7 +191,7 @@ http://homeplus.relaxy.vip:8000/test3027/64703735/6555
 #EXTSIZE: Medium
 #EXTBG: #11609e
 http://homeplus.relaxy.vip:8000/test3027/64703735/6556
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR OSCARS HD" tvg-logo="" group-title="ESPAÑA" country="ES",MOVISTAR OSCARS HD
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR OSCARS" tvg-logo="" group-title="ESPAÑA" country="ES",MOVISTAR OSCARS
 #EXTSIZE: Medium
 #EXTBG: #11609e
 http://homeplus.relaxy.vip:8000/test3027/64703735/83964
@@ -247,7 +247,7 @@ http://homeplus.relaxy.vip:8000/test3027/64703735/27069
 #EXTSIZE: Medium
 #EXTBG: #11609e
 http://homeplus.relaxy.vip:8000/test3027/64703735/6640
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA" tvg-logo="http://tvpass.co.uk/logos/es/Canaldecasa.png" group-title="ESPAÑA" country="ES",CANAL DECASA
+#EXTINF:-1 tvg-id="" tvg-name="DECASA" tvg-logo="http://tvpass.co.uk/logos/es/Canaldecasa.png" group-title="ESPAÑA" country="ES",DECASA
 #EXTSIZE: Medium
 #EXTBG: #11609e
 http://homeplus.relaxy.vip:8000/test3027/64703735/27059
@@ -263,35 +263,19 @@ http://homeplus.relaxy.vip:8000/test3027/64703735/3424
 #EXTSIZE: Medium
 #EXTBG: #11609e
 http://homeplus.relaxy.vip:8000/test3027/64703735/4147
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://obsfullhd.tv:25461/images/677a740d30b70f11b660199c2cfa2a01.png" group-title="ESPAÑA" country="ES",NATIONAL GEOGRAPHIC
-#EXTSIZE: Medium
-#EXTBG: #11609e
-http://homeplus.relaxy.vip:8000/test3027/64703735/6629
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://obsfullhd.tv:25461/images/677a740d30b70f11b660199c2cfa2a01.png" group-title="ESPAÑA" country="ES",NATIONAL GEOGRAPHIC HD
 #EXTSIZE: Medium
 #EXTBG: #11609e
-http://homeplus.relaxy.vip:8000/test3027/64703735/6630
+http://homeplus.relaxy.vip:8000/test3027/64703735/6629
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC WILD" tvg-logo="" group-title="ESPAÑA" country="ES",NATIONAL GEOGRAPHIC WILD
 #EXTSIZE: Medium
 #EXTBG: #11609e
 http://homeplus.relaxy.vip:8000/test3027/64703735/6631
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://obsfullhd.tv:25461/images/677a740d30b70f11b660199c2cfa2a01.png" group-title="ESPAÑA" country="ES",NATIONAL GEOGRAPHIC WILD HD
-#EXTSIZE: Medium
-#EXTBG: #11609e
-http://homeplus.relaxy.vip:8000/test3027/64703735/6695
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA" tvg-logo="http://live.nex-tv.tk:80/images/e78d5f08f9ad3bc9e839f7f6d176b267.png" group-title="ESPAÑA" country="ES",HISTORIA
-#EXTSIZE: Medium
-#EXTBG: #11609e
-http://homeplus.relaxy.vip:8000/test3027/64703735/6632
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA HD" tvg-logo="http://fanc.tmsimg.com/assets/s90350_ll_h3_aa.png" group-title="ESPAÑA" country="ES",HISTORIA HD
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA" tvg-logo="http://fanc.tmsimg.com/assets/s90350_ll_h3_aa.png" group-title="ESPAÑA" country="ES",HISTORIA
 #EXTSIZE: Medium
 #EXTBG: #11609e
 http://homeplus.relaxy.vip:8000/test3027/64703735/4137
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="http://tvpass.co.uk/logos/es/Discovery_Channel_2019.png" group-title="ESPAÑA" country="ES",DISCOVERY
-#EXTSIZE: Medium
-#EXTBG: #11609e
-http://homeplus.relaxy.vip:8000/test3027/64703735/6633
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HD" tvg-logo="http://fanc.tmsimg.com/assets/s15798_ll_h3_ab.png" group-title="ESPAÑA" country="ES",DISCOVERY HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="http://fanc.tmsimg.com/assets/s15798_ll_h3_ab.png" group-title="ESPAÑA" country="ES",DISCOVERY
 #EXTSIZE: Medium
 #EXTBG: #11609e
 http://homeplus.relaxy.vip:8000/test3027/64703735/4135
